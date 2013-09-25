@@ -7,6 +7,7 @@ Bounding Volume Hierarchy.) At the intersection, shadow feeler rays are cast to
 each light. The color of the light calculated for the ray gets added to an
 opengl framebuffer.
 
+![Bunny Of Spheres](screen.png)
 
 Compilation
 ----------
